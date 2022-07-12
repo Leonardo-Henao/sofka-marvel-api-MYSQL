@@ -1,22 +1,13 @@
-# Marvel Commics SFK
+# Marvel Commics SFK COn MySQL
 
 ## Funcionamiento
- La aplicacion tiene sus ID's definidos y fueron encontrados gracias a
- la INTERACTIVE API TESTER que provee la API de Marvel.
- 
-Personajes definidos:
-- Spider-man
-- Iron-man
-- Hulk
-- Capitan America
-- Thor
+ La aplicacion obtiene un super heroe de la aoi de marvel y la agrega a una base de datos local de Mysql. La aplicacion cuenta con las siguientes funciones:
+ - Ver la base de datos local
+ - Agregar nuevos personas
+ - Edtar datos de algun persona guardado localmente
+ - Eliminar a un personaje
+ - Salir
 
-## Instalacion
-
-- Clonar repositorio con `git@github.com:Leonardo-Henao/sofka-marvelapi.git` 
-para conexiones en SSH o `https://github.com/Leonardo-Henao/sofka-marvelapi.git` 
-para conexiones HTTPS.
-- Abrir con tu IDE favorito y ejecutar
 
 ## Atribuciones
 
