@@ -1,0 +1,25 @@
+
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+o
+?src/main/java/com/sofka/marvelcomics/ControladorProperties.java,7/d/7d973356fd73225041ce1eaa9f6a926cfdedb300
+t
+Dsrc/main/java/com/sofka/marvelcomics/interfaces/InterfaceLogger.java,e/2/e2eb1e6c83d33b8a31a1e99dce217f8737a1da69
+g
+7src/main/java/com/sofka/marvelcomics/ConnectionAPI.java,6/b/6b46f4042a085b5d7aa1db1550227d7adb422142
+q
+Asrc/main/java/com/sofka/marvelcomics/abstracts/GetDataMarvel.java,d/3/d3a3e3eeafa7c33dbb1c88c965d8b1f08a1aa5d1
+{
+Ksrc/main/java/com/sofka/marvelcomics/interfaces/InterfaceConnectionAPI.java,c/1/c1d48220d0cc7b5e2d69081386cf084e21e8d90b
+o
+?src/main/java/com/sofka/marvelcomics/models/ModelCharacter.java,3/1/319fb6c2b71f0eba0f71afeec89afb6080fe7164
+a
+1src/main/java/com/sofka/marvelcomics/MLogger.java,0/5/05aba42c4519d3d53d818a44688cc5686adfe4d5
+{
+Ksrc/main/java/com/sofka/marvelcomics/interfaces/interfaceControladorDB.java,4/d/4dc89439f8ad749ed327120fc3c459fff7f4316a
+g
+7src/main/java/com/sofka/marvelcomics/ControladorDB.java,7/3/73a2c17bed679c7cf95f5f9f617b5c5fc6012c35
+^
+.src/main/java/com/sofka/marvelcomics/Home.java,a/8/a8a58246d53e86a5099bafba8fd73cd185c56d34
